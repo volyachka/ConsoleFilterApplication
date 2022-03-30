@@ -1,0 +1,4 @@
+/home/volya/cpp-base-hse-2022/projects/image_processor/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/volya/cpp-base-hse-2022/projects/image_processor/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/volya/cpp-base-hse-2022/projects/image_processor/cmake-build-release/CMakeFiles/image_processor.dir
+/home/volya/cpp-base-hse-2022/projects/image_processor/cmake-build-release/CMakeFiles/contrib_catch_main.dir

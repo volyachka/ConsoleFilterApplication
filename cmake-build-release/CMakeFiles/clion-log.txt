@@ -1,0 +1,4 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -DCMAKE_CXX_COMPILER=/usr/bin/clang++-11 -G Ninja /home/volya/cpp-base-hse-2022/projects/image_processor
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/volya/cpp-base-hse-2022/projects/image_processor/cmake-build-release
