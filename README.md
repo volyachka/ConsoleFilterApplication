@@ -31,21 +31,24 @@ Border selection.
 
 #### Fish eye (-fish)
 example.bmp
-file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/example.bmp
+![example](https://user-images.githubusercontent.com/102247359/162234624-07f80e53-c97b-44e8-babe-3d91cdf633f1.jpg)
 
 examples/example.bmp examples/output.bmp -crop 1600 1800 -blur 15
 
-file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+![output (3)](https://user-images.githubusercontent.com/102247359/162233791-455f4d60-475e-4f85-b871-6e61d7f0982e.jpg)
+
 
 examples/example.bmp examples/output.bmp -edge 0.14
 
-file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+![output (2)](https://user-images.githubusercontent.com/102247359/162233129-22004b5e-618b-430a-b7a8-d9e4e2e93aa6.jpg)
+
 
 examples/example.bmp examples/output.bmp -sharp -fish
 
-file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+![output (1)](https://user-images.githubusercontent.com/102247359/162231399-99a68c11-65db-49b5-a03c-1d3be5ceb9bf.jpg)
+
 
 examples/example.bmp examples/output.bmp -neg
 
-file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+![output](https://user-images.githubusercontent.com/102247359/162229850-baab41f8-5870-41b6-b11c-6afa582ca250.jpg)
 
