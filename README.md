@@ -30,3 +30,22 @@ Border selection.
 #### Gaussian Blur (-blur sigma)
 
 #### Fish eye (-fish)
+example.bmp
+file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/example.bmp
+
+examples/example.bmp examples/output.bmp -crop 1600 1800 -blur 15
+
+file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+
+examples/example.bmp examples/output.bmp -edge 0.14
+
+file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+
+examples/example.bmp examples/output.bmp -sharp -fish
+
+file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+
+examples/example.bmp examples/output.bmp -neg
+
+file:///home/volya/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+
