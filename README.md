@@ -29,4 +29,4 @@ Border selection.
 
 #### Gaussian Blur (-blur sigma)
 
-### Fish eye
+#### Fish eye (-fish)
