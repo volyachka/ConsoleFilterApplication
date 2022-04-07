@@ -42,6 +42,9 @@ examples/example.bmp examples/output.bmp -edge 0.14
 
 ![output (2)](https://user-images.githubusercontent.com/102247359/162233129-22004b5e-618b-430a-b7a8-d9e4e2e93aa6.jpg)
 
+examples/example.bmp examples/output.bmp -edge 0.04
+![output (4)](https://user-images.githubusercontent.com/102247359/162235838-c74ca4e8-9408-4e36-b94f-ca2d5b4fd4c0.jpg)
+
 
 examples/example.bmp examples/output.bmp -sharp -fish
 
@@ -51,4 +54,8 @@ examples/example.bmp examples/output.bmp -sharp -fish
 examples/example.bmp examples/output.bmp -neg
 
 ![output](https://user-images.githubusercontent.com/102247359/162229850-baab41f8-5870-41b6-b11c-6afa582ca250.jpg)
+
+examples/example.bmp examples/output.bmp -gs
+
+![output_1](https://user-images.githubusercontent.com/102247359/162235382-908c70db-b64c-418e-8efc-92cab85353e3.jpg)
 
